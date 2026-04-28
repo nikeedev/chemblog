@@ -1,4 +1,5 @@
 [
-    { name: "Welcome to chemblog!", desc: "Welcome to my new blog!", post: "posts/welcome.html" }, 
-    { name: "Orthonitrates", desc: "Orthonitrates, nitrates that 4 oxygens instead of 3, and yet still a -1.", post: "posts/orthonitrates.html" }
+    { "name": "Welcome to chemblog!", "desc": "Welcome to my new blog!", "post": "posts/welcome.html" }, 
+    { "name": "Orthonitrates", "desc": "Orthonitrates, nitrates that have 4 oxygens instead of the normal 3, and yet still have a charge of -1", "post": "posts/orthonitrates.html" }
+
 ]
