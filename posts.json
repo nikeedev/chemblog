@@ -1,0 +1,4 @@
+[
+    { name: "Welcome to chemblog!", desc: "Welcome to my new blog!", post: "posts/welcome.html" }, 
+    { name: "Orthonitrates", desc: "Orthonitrates, nitrates that 4 oxygens instead of 3, and yet still a -1.", post: "posts/orthonitrates.html" }
+]
